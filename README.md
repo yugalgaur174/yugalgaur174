@@ -1,5 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Yugal Gaur</h1>
+<h2 align="center">Leetcode Info<h2>
+
+
+  
+<p align="center">
+  <a href="https://leetcode.com/u/yugalgaur174/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" alt="jyot" height="200" width="200" /></a>
+</p>
 <h3 align="center">A passionate developer from Chennai, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yugalgaur174&label=Profile%20views&color=0e75b6&style=flat" alt="yugalgaur174" /> </p>
