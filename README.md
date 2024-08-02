@@ -5,7 +5,8 @@
 
   
 <p align="center">
-  <a href="https://leetcode.com/u/yugalgaur174/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/yugalgaur174/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" alt="jyot" height="200" width="200" />
+  <a href="https://leetcode.com/u/yugalgaur174/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 <h3 align="center">A passionate developer from Chennai, India.</h3>
 
