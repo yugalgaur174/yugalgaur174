@@ -8,6 +8,10 @@
   <a href="https://leetcode.com/u/yugalgaur174/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" alt="jyot" height="200" width="200" />
   <a href="https://leetcode.com/u/yugalgaur174/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
 </p>
+    <p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/yugalgaur174?theme=nord&font=Fira%20Sans%20Condensed&ext=heatmap" />  
+</p>
 <h3 align="center">A passionate developer from Chennai, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yugalgaur174&label=Profile%20views&color=0e75b6&style=flat" alt="yugalgaur174" /> </p>
