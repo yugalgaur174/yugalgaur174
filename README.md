@@ -3,16 +3,19 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/yugalgaur174/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode Profile" height="200" width="200" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode Profile" height="170" width="170" />
   </a>
   <a href="https://leetcode.com/u/yugalgaur174/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Profile" height="200" width="200" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Profile" height="170" width="170" />
   </a>
   <a href="https://leetcode.com/u/yugalgaur174/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" alt="July Badge" height="200" width="200" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" alt="July Badge" height="170" width="170" />
   </a>
   <a href="https://leetcode.com/u/yugalgaur174/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" alt="August Badge" height="200" width="200" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" alt="August Badge" height="170" width="170" />
+  </a>
+  <a href="https://leetcode.com/u/yugalgaur174/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" alt="September Badge" height="170" width="170" />
   </a>
 </p>
 
