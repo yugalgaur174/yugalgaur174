@@ -20,6 +20,10 @@
    <a href="https://leetcode.com/u/yugalgaur174/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="October Badge" height="170" width="170" />
   </a>
+  
+  <a href="https://leetcode.com/u/yugalgaur174/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-11.gif" alt="October Badge" height="170" width="170" />
+  </a>
 </p>
 
 <p align="center">
